@@ -39,7 +39,7 @@ _If you want to add another tailwindcss class, follow this step!_
    ```
 5. Watch Tailwind Changes
    ```bash
-   npx tailwindcss -i src/global.css -o dist/index.css
+   npx tailwindcss -i src/global.css -o dist/index.css --watch
    ```
 6. You Can Start to Change the Style
 
